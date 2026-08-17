@@ -116,7 +116,6 @@ print("Prediction for new student 2 (0 = Not Placed, 1 = Placed):", y_prednew2[0
 
 
 ## Output:
-## Output:
 ![logistic regression using gradient descent](sam.png)
 
 
