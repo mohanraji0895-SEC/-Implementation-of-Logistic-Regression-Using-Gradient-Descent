@@ -145,7 +145,7 @@ print("Prediction for new student 2 (0 = Not Placed, 1 = Placed):", y_prednew2[0
 
 
 
-## Result:
+Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
 
