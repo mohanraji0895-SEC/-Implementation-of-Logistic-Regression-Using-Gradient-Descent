@@ -137,7 +137,7 @@ y_prednew2 = predict(theta, xnew2)
 print("\nPrediction for new student 1 (0 = Not Placed, 1 = Placed):", y_prednew1[0])
 print("Prediction for new student 2 (0 = Not Placed, 1 = Placed):", y_prednew2[0])
 
-
+`\`\`\``
 
 ## Output:
 ![logistic regression using gradient descent](sam.png)
